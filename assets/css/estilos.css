@@ -37,3 +37,11 @@ body {
   }
 
 }
+
+.navbar{
+  background-color: #520d7e;
+}
+
+.navbar h1{
+  font-weight: bold;
+}
