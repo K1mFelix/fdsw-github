@@ -1,7 +1,5 @@
 body {
   font-family: "Raleway", sans-serif;
-  background-color: #373a3c;
-  color: white;
 }
 
 /* Hero Section */
@@ -52,14 +50,7 @@ section h5{
   color: #373a3c;
 }
 
-section p{
-  color: #373a3c;
-}
-
-section p{
-  color: white;
-}
-
 .row p{
   color: #373a3c;
 }
+
