@@ -55,3 +55,11 @@ section h5{
 section p{
   color: #373a3c;
 }
+
+section p{
+  color: white;
+}
+
+.row p{
+  color: #373a3c;
+}
