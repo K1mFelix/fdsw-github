@@ -1,5 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #373a3c;
+  color: white;
 }
 
 /* Hero Section */
@@ -44,4 +46,12 @@ body {
 
 .navbar h1{
   font-weight: bold;
+}
+
+section h5{
+  color: #373a3c;
+}
+
+section p{
+  color: #373a3c;
 }
